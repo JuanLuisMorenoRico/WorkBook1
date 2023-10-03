@@ -1,0 +1,9 @@
+#primairy{
+    font-size: 20px;
+} /* ID yiu use # in CSS while Class uses (.)*/
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
